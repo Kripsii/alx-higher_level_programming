@@ -1,1 +1,1 @@
-prints a Python string
+Print integer
