@@ -1,1 +1,1 @@
-Play with strings
+Copy-Cut-Paste
