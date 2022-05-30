@@ -1,1 +1,1 @@
- print the float stored in the variable
+ print 3 times a string stored in the variable
