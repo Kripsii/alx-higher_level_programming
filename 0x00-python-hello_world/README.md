@@ -1,1 +1,1 @@
-Shell script that runs Python code.
+prints a Python string
