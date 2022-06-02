@@ -1,1 +1,1 @@
-Import a simple function from a simple file
+does some Maths, and prints the result.
