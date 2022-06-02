@@ -1,1 +1,5 @@
-does some Maths, and prints the result.
+a program that prints the number of and the list of its arguments.
+
+
+
+
