@@ -1,1 +1,1 @@
-a program that prints all the names defined by the compiled module hidden_4.pyc
+program that imports the variable from a file
