@@ -1,12 +1,17 @@
 #!/usr/bin/python3
-if __name__ == "__main__":
-    from sys import
-    nArgs = len(argv)
-    if nArgs == 1:
-        print(f"{nArgs - 1} arguments.")
-    elif nArgs == 2:
-        print(f"{nArgs - 1} argument:")
+from sys import argv
+
+argc = len(argv)
+
+if __name__ == '__main__':
+    if argc == 1:
+        print(f"{argc - 1} arguments.")
+    elif argc == 2:
+        print(f"{argc - 1} argument:")
     else:
-        print(f"{nArgs - 1} arguments:")
-        for i in range(1, nArgs):
-            print(f"{i}: {argv[i]}")
+        print(f"{argc - 1} arguments:")
+
+        index = 1
+        while index < argc:
+            print(f"{index}: {argv[index]}")
+            index += 1
