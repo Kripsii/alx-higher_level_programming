@@ -1,1 +1,1 @@
- A program that prints integers
+a function that retrieves an element from a list like in C.
