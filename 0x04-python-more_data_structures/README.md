@@ -1,1 +1,1 @@
-a function that adds all unique integers in a list 
+a function that returns a set of common elements in two sets.
