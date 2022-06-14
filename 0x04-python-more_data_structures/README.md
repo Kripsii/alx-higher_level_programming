@@ -1,1 +1,1 @@
-returns the weighted average of all integers tuple 
+a function that computes the square value of all integers of a matrix using map
