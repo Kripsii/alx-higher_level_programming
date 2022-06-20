@@ -1,1 +1,1 @@
-a function that divides 2 integers and prints the result.
+a function that raises a type exception.
