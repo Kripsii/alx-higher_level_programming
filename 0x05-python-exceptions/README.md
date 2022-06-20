@@ -1,1 +1,1 @@
-a function that raises a name exception with a message.
+a function that divides element by element 2 lists.
