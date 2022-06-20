@@ -1,1 +1,1 @@
-Return number of printed elements
+a function that prints an integer with "{:d}".format().
