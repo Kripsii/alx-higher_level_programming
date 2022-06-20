@@ -1,1 +1,1 @@
-The magic calculator
+print x elements
