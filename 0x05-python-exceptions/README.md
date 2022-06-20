@@ -1,1 +1,1 @@
-a function that executes a function safely.
+The magic calculator
