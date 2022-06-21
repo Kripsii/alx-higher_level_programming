@@ -1,1 +1,1 @@
-Print a square with # character
+Fix a bug in code
