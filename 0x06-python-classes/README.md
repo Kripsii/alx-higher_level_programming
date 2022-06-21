@@ -1,1 +1,1 @@
-an empty class Square that defines a square:
+Control that type and value of attribute
