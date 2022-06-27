@@ -1,1 +1,5 @@
-Defines an empty class Rectangle
+class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+
+
+
+
