@@ -1,5 +1,1 @@
-class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
-
-
-
-
+Find area and perimeter in classs,
