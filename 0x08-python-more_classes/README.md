@@ -1,1 +1,1 @@
-Find area and perimeter in classs,
+String representation in class.
