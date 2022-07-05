@@ -3,6 +3,6 @@
 
 
 def write_file(filename="", text=""):
-""" Write to a file """
-with open(filename, "w") as file:
-return file.write(text)
+	""" Write to a file """
+	with open(filename, "w") as file:
+		return file.write(text)
