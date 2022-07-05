@@ -1,1 +1,1 @@
-a function that replaces all occurrences of an element by another in a new list.
+a function that deletes keys with a specific value in a dictionary.
