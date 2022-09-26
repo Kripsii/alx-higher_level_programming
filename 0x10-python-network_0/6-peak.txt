@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+def perm(str, p):
+	d = {}
+
+
