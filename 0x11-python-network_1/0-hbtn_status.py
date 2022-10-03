@@ -1,13 +1,12 @@
 #!/usr/bin/python3
-""" Fetches a url """
+""" Script that fetches from a url using urllib package"""
 
-from urllib.request import urlopen
+import urllib.request as request
 
 if __name__ == "__main__":
-    if __name__ == "__main__":
-        with urlopen(url) as response:
-            bytes_content = response.read()
-            content = bytes_content.decode('utf-8')
-            string = 'Body response:\n\t- type: {}\n\t- content: {}\n\t- \
-utf8 content: {}'.format(type(bytes_content), bytes_content, content)
-print(string)
+    with request.urlopen('https://intranet.hbtn.io/status') as r:
+        html = r.read()
+        print("Body response:")
+        print("\t- type: {}".format(type(html)))
+        print("\t- content: {}".format(html))
+        print("\t- utf8 content: {}".format(html.decode('utf-8')))
